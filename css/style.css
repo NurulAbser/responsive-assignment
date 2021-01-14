@@ -1,0 +1,77 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: opx;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Bebas Neue", cursive;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: "Bebas Neue", cursive;
+  color: coral;
+}
+
+.logo-size {
+  width: 70%;
+}
+.icons-size img {
+  width: 100px;
+  margin: 0px 10px;
+}
+
+.fasion-card {
+  border: 0;
+}
+.fasion-card-footer {
+  border: o;
+}
+.fasion-card img {
+  width: 300px;
+}
+.card-title {
+  color: chocolate;
+}
+
+.card-img-box {
+  height: 10px;
+}
+.card-w {
+}
+.card-button {
+  background-color: darkgreen;
+  width: 150px;
+  margin: 0 40px;
+  border-radius: 20px;
+  color: white;
+  border: 0px;
+}
+.card-button:hover {
+  background-color: green;
+}
+.top-button {
+  background-color: darkgreen;
+  width: 150px;
+  height: 50px;
+  margin: 0px;
+  border-radius: 20px;
+  color: white;
+  border: 0px;
+}
+.top-button:hover {
+  background-color: green;
+}
+
+.service-list-size {
+  height: 140px;
+  border-radius: 30px;
+  padding-top: 13px;
+}
+.subscribes {
+  margin-top: 300px;
+}
+.features {
+  height: 700px;
+}
